@@ -1,7 +1,7 @@
 {
-  "name": "NayLaBotz",
+  "name": "IncBotz",
   "version": "14.18.2",
-  "description": "© nayla",
+  "description": "© Ananda DEV",
   "depecrated": "false",
   "main": "index.js",
   "directories": {
@@ -19,7 +19,7 @@
   ],
   "homepage": "https://github.com/ItzLighting9332/nayla-app",
   "author": {
-    "name": "ItzLighting9332"
+    "name": "Ananda"
   },
   "repository": {
     "type": "git",
